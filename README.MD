@@ -53,3 +53,14 @@ Para ejecutar este notebook, necesitarás:
    ```bash
    jupyter notebook proyecto_9.ipynb
 
+## Contribuciones
+Si deseas contribuir a este proyecto, por favor sigue los pasos:
+1. Realiza un fork del repositorio.
+2. Crea una rama para tu función o corrección.
+3. Envía un pull request con una descripción detallada de tus cambios.
+
+## Licencia
+Este proyecto se encuentra bajo una licencia abierta. Consulta el archivo `LICENSE` para más información.
+
+## Contacto
+Para dudas o comentarios, por favor contactame a través del sistema de issues en este repositorio.
