@@ -1,7 +1,7 @@
 # Proyecto 9 - Betabank: ¿Quienes se van? 
 
 Los clientes de Beta Bank se están yendo, cada mes, poco a poco. Es más barato salvar a los clientes existentes que atraer nuevos. 
-Necesitamos predecir si un cliente dejará el banco pronto. Realizamos un modelo predictivo de bosque aleatorio, usando datos bancarios. Debido a las diferencias en las proporciones de las clases se intentaron difernetes métodos de equilibrio de las mismas.
+Necesitamos predecir si un cliente dejará el banco pronto. Realizamos un modelo predictivo de bosque aleatorio, usando datos bancarios. Debido a las diferencias en las proporciones de las clases se intentaron diferentes métodos de equilibrio de las mismas.
 
 ## Contenido del archivo
 El notebook consta de:
